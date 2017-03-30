@@ -1,1 +1,1 @@
-postgrest
+postgres
